@@ -1,1 +1,4 @@
 config.txt
+powerswitch.ip
+update.sh
+*.sublime-workspace
